@@ -1,0 +1,112 @@
+{
+    "bestseller":[
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso Arabica",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+
+    ],
+
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso Arabica",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://th.bing.com/th?id=OIP.sRNIU8j9Qt-b0_XyH0fbegHaIk&w=232&h=268&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2.jpg",
+            "nama": "jus jeruk",
+            "size": "200 Gram",
+            "harga": "15.000",
+            "link": "https://www.tokopedia.com/find/jus-jeruk"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/R.b82046eaff897fa726963ad590cc8593?rik=yKZkj%2fY3nVnRQA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-krX97PJk6VU%2fTbvCOIEo3AI%2fAAAAAAAAABg%2fLV0OvRhJU_I%2fs1600%2fEs%2bKrim.jpg&ehk=dfZeWXWJfC1jqdgHI%2bgE%2fCW4r%2bMaH017tb4600OcjHc%3d&risl=&pid=ImgRaw&r=0.jpg",
+            "nama": "es cream",
+            "size": "50 liter",
+            "harga": "50.000",
+            "link": "https://www.tokopedia.com/tbkbandung/aice-3in1-bucket-ice-cream-8l?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/R.737de25da435abceb4b0e370110481c9?rik=L5e0pRGgTsJgEg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-YTwMGLheIqo%2fVULHFnV12RI%2fAAAAAAAAACo%2fEtht-7E7C54%2fs1600%2fes-teh-susu.jpg&ehk=%2bhdvw9b3SdDBmsqO04RMhatuNF7DG%2bwESX6VHOVye%2bc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1.jpg",
+            "nama": "Es teh Susu/Non Es",
+            "size": "200 Gram",
+            "harga": "10.000",
+            "link": "https://www.tokopedia.com/find/jus-jeruk"
+        }
+    ],
+    "cemilan": [
+        {
+            "foto": "https://bisnisukm.com/uploads/2020/09/peluang-usaha-keripik-basreng-anti-ribet-skala-rumahan.png",
+            "nama": "basreng",
+            "size": "1 kg",
+            "harga": "50.000",
+            "link": "https://www.tokopedia.com/bocikakangg/basreng-1kg-pedas-daun-jeruk-original-original-2a94f?extParam=ivf%3Dtrue&src=topads"
+        },
+        {
+            "foto": "https://www.browneyedbaker.com/wp-content/uploads/2017/09/soft-chewy-chocolate-chip-cookies-7-754.jpg",
+            "nama": "cookies",
+            "size": "10 pcs",
+            "harga": "55.000",
+            "link": "https://www.tokopedia.com/honeybearbakery/mixed-cookie-box-soft-baked-cookies-kue-kering-coklat-chip-almond-10-pcs-polos?extParam=ivf%3Dfalse%26src%3Dsearch"
+        }
+    ]
+}
